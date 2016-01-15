@@ -51,6 +51,7 @@ CI servers detected:
 - [Travis CI](http://travis-ci.org)
 - [CircleCI](http://circleci.com)
 - [Jenkins CI](https://jenkins-ci.org)
+- [Hudson](http://hudson-ci.org)
 - [Bamboo](https://www.atlassian.com/software/bamboo)
 - [TeamCity](https://www.jetbrains.com/teamcity/)
 - [Team Foundation Server](https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx)
@@ -58,7 +59,11 @@ CI servers detected:
 - [GitLab CI](https://about.gitlab.com/gitlab-ci/)
 - [Codeship](https://codeship.com)
 - [Drone.io](https://drone.io)
+- [Magnum CI](https://magnum-ci.com)
+- [Semaphore CI](https://semaphoreci.com)
+- [AppVeyor](http://www.appveyor.com)
 - [Buildkite](https://buildkite.com)
+- [TaskCluster](http://docs.taskcluster.net)
 - + all other CI servers that exposes a `CI` or `CONTINUOUS_INTEGRATION`
   environment variable
 
